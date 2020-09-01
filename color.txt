@@ -3,6 +3,7 @@ Change in file for 2nd commit in blue branch
 Changes in file for 1st commit in purple branch 
 
 Changes in file for 2nd commit in purple branch 
+<<<<<<< HEAD
 
 Changes in file for 3rd commit in blue branch 
 
@@ -16,3 +17,5 @@ Changes in file 2nd commit in green branch
 Changes in file 5th commit in blue branch 
 =======
 >>>>>>> green
+=======
+>>>>>>> purple
