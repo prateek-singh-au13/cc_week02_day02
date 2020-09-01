@@ -1,3 +1,5 @@
 Change in file for 2nd commit in blue branch 
 
 Changes in file for 1st commit in purple branch 
+
+Changes in file for 2nd commit in purple branch 
