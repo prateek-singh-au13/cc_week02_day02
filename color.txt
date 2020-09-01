@@ -7,3 +7,6 @@ Changes in file for 2nd commit in purple branch
 Changes in file for 3rd commit in blue branch 
 
 Changes in file for 4th commit in blue branch
+
+Changes in file 1st commit in green branch 
+
